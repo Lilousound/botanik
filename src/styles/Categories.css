@@ -1,0 +1,28 @@
+.categories {
+  color: black;
+  padding: 6px 0 0 32px;
+}
+
+.categories-select {
+  padding: 5px 20px;
+  margin: 0 20px;
+  background-color: rgb(233, 248, 250);
+}
+
+.sub-title {
+  font-size: 1.8em;
+  font-weight: bolder;
+  color: #086659;
+  margin-bottom: 0;
+}
+
+.sub-italic {
+  font-size: 0.6em;
+}
+
+.text-categories {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 10%;
+}

@@ -1,0 +1,27 @@
+.plant-item-cover {
+	height: 220px;
+	width: 220px;
+	border-radius: 20px;
+}
+
+.plant-item {
+	display: flex;
+	align-items: flex-start;
+	justify-content: center;
+	flex-direction: column;
+	text-transform: capitalize;
+}
+
+.plant-name-price {
+  width: 96%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.plant-name {
+  font-weight: bold;
+  padding: 6px 0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #086659;
+}

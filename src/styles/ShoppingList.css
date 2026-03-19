@@ -1,0 +1,15 @@
+.shopping-list {
+	width: 100%;
+}
+
+.plant-list {
+	list-style-type: none;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+  padding: 10px;
+}
+
+.plant-item-block {
+  margin: 12px;
+}

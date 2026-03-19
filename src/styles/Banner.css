@@ -1,0 +1,24 @@
+.banner {
+  color: #086659;
+  border-bottom: double 10px #086659;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+}
+
+.logo {
+  height: 85px;
+}
+
+.banner-title {
+  font-size: 64px;
+}
+
+.plant-img {
+  height: 100px;
+}
