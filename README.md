@@ -5,7 +5,7 @@ A **React-based web application** dedicated to plant lovers, for buying plants w
 
 **Botanik** is a passion project designed to simplify plant care for both beginners and enthusiasts. Whether you're looking to identify a new plant, set up care reminders, or explore plant collections, Botanik provides an intuitive and visually pleasing experience.
 
-🔗  **[Live Demo](https://botanik.vercel.app/)**
+🔗  **[Live Demo](https://botanik-ruddy.vercel.app/)**
 
 ---
 
@@ -34,7 +34,7 @@ A **React-based web application** dedicated to plant lovers, for buying plants w
 
 ✅ **Plant Database**: Browse a curated collection of plants with details on light, and watering needs.
 ✅ **Search & Filter**: Easily find plants by type.
-✅ **Shopping Cart** – Add/remove items with localStorage persistence
+✅ **Shopping Cart** Add/remove items with localStorage persistence
 
 ---
 
