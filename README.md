@@ -1,70 +1,63 @@
-# Getting Started with Create React App
+# 🌿 Botanik
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A **React-based web application** dedicated to plant lovers, for buying plants with ease.
 
-## Available Scripts
 
-In the project directory, you can run:
+**Botanik** is a passion project designed to simplify plant care for both beginners and enthusiasts. Whether you're looking to identify a new plant, set up care reminders, or explore plant collections, Botanik provides an intuitive and visually pleasing experience.
 
-### `yarn start`
+🔗  **[Live Demo](https://botanik.vercel.app/)**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+---
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## 🛠️ Technologies Used
 
-### `yarn test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+| Technology        | Purpose                          |
+| ----------------- | -------------------------------- |
+| **React**         | Frontend framework               |
+| **CSS3**          | General and Responsive design    |
+| **LocalStorage**  | Save user preferences/plant data |
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## 🎨 Design & UX Choices
 
-### `yarn eject`
+- **Nature-Inspired Palette**: Soft blue/green and earthy tones to evoke a calming, natural atmosphere.
+- **Minimalist Layout**: Focus on content and usability, avoiding clutter.
+- **Interactive Elements**: Hover effects, smooth transitions, and intuitive navigation for a delightful user experience.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## 🎯 Features
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+✅ **Plant Database**: Browse a curated collection of plants with details on light, and watering needs.
+✅ **Search & Filter**: Easily find plants by type.
+✅ **Shopping Cart** – Add/remove items with localStorage persistence
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+---
 
-## Learn More
+## 💡 Why This Project?
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- Practicing **React, and modern UI/UX principles**.
+- Building a **portfolio piece** that showcases my ability to design and develop a full-fledged web app in react from scratch.
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+---
 
-### Analyzing the Bundle Size
+## 📢 Contribution & Feedback
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+This project is open source! Contributions and feedback are welcome:
 
-### Making a Progressive Web App
+Suggestions: New features, UI improvements, or bug fixes. Issues: Open an issue or contact me directly.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+---
 
-### Advanced Configuration
+## 📧 Get in Touch
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+Have questions, suggestions, or just want to chat about the project? I’d love to hear from you! 😊
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+📩 Email me at: aurelieraout@gmail.com
+Whether it’s feedback, collaboration ideas, or even a friendly "hello," don’t hesitate to reach out!
